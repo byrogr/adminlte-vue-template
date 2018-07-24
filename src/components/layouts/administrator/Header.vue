@@ -1,5 +1,5 @@
 <template>
-    <div class="main-header">
+    <header class="main-header">
         <!-- Logo -->
         <a href="#" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
@@ -67,7 +67,7 @@
                 </ul>
             </div>
         </nav>
-    </div>
+    </header>
 </template>
 
 <script>
